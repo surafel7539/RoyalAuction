@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+build
+.env*.local
+public/uploads/*
+!public/uploads/.gitkeep
+!public/uploads/toyota-hilux.jpg
+!public/uploads/haile-coins-1.jpg
+!public/uploads/haile-coins-2.jpg
+data
+.neon
